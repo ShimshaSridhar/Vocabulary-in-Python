@@ -48,7 +48,7 @@ while True:
     window = Tk()
 
     window.wm_title("Shimsha's Vocabulary")
-    window.geometry("300x100")
+    window.geometry("300x100+1230+730")
 
     # Program the Label for Word and Meaning
     l1 = Label(window, text=word, fg="red", font=("Helvetica", 10)).pack(pady=10)
