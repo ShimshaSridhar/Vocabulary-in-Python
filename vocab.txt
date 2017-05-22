@@ -1,0 +1,8 @@
+BELIE,Misrepresent
+MERCURIAL,Prone to unexpected and unpredictable changes in mood
+VERACIOUS,Truthful
+AMENABLE,Easily persuaded
+STEEPED,Soaked; Drenched; Saturated
+REPLETE,Completely filled or supplied with
+ABOUND,To exist in great numbers
+PROGNOSTICATE,To predict or foretell a future event
