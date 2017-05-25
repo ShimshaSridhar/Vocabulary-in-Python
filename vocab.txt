@@ -6,3 +6,35 @@ STEEPED,Soaked; Drenched; Saturated
 REPLETE,Completely filled or supplied with
 ABOUND,To exist in great numbers
 PROGNOSTICATE,To predict or foretell a future event
+BADGER,To pester; Nag; Annoy Persistently
+IMPLORE,To beg earnestly for
+DRUDGERY,Unpleasant; Dull; HardWork
+PERCEIVE,To Understand; Know; Become aware of
+LACONIC,Using few words; Brief; To the point
+INTREPID,Fearless; Brave
+RETICENT,Silent
+FURTIVE,Secret; Stelthy
+ADROIT,Skillful
+GESTICULATE,Move arms energitically
+NUANCE,Slight variation in meaning;tone;etc
+CHURLISH,Rude; Ill mannered
+INHIBITED,Shy 
+MARTINET,Strict disciplinarian
+COSMOPOLITAN,Big City
+POLYGLOT,Speaking many languages
+SURGE,Increase
+BENEFACTOR(BEN),Someone who is on your side
+SEMBLANCE,One's facial expression
+APLOMB,Self confidence/Assurance
+DISSIMILITUDE,Diversity
+HISTRIONICS,Melodramatic behavior designed to attract attention
+FLAMBOYANCE,Flashy
+***PREVARICATION,Lying; Not being direct; Beating around the bush
+%VERBIAGE,Get rid of extra words
+SHUN,To avoid something
+LABYRINTH,Maze; Twisting maze
+TERSE,Straight to the point
+APHORISMS,Short sayings
+PITHY,Terse and vigorously expressive
+NOTION,Idea
+IGNOMINY,Disgrace
